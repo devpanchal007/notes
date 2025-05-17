@@ -3,13 +3,13 @@ import { getAuth } from 'firebase/auth';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyAw67chR-ijUVWH0RTh6Zc9MSI2CIOZHSw",
-    authDomain: "notes-neo.firebaseapp.com",
-    projectId: "notes-neo",
-    storageBucket: "notes-neo.firebasestorage.app",
-    messagingSenderId: "128880583840",
-    appId: "1:128880583840:web:ef7908f1a4c205dad415c5",
-    measurementId: "G-NLRF1SG7G9"
+    apiKey: "AIzaSyDTjq4V1KWQ-XfDw31vrUcNHOr3XE_3TRo",
+    authDomain: "dsalearn-1937f.firebaseapp.com",
+    projectId: "dsalearn-1937f",
+    storageBucket: "dsalearn-1937f.firebasestorage.app",
+    messagingSenderId: "573254619168",
+    appId: "1:573254619168:web:31966c83ab104acd21ac45",
+    measurementId: "G-LR2ZGRXKR2"
     };
 
 const app = initializeApp(firebaseConfig);
