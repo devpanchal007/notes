@@ -3,7 +3,7 @@ import { getAuth } from 'firebase/auth';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "",
+    apiKey: "AIzaSyDTjq4V1KWQ-XfDw31vrUcNHOr3XE_3TRo",
     authDomain: "dsalearn-1937f.firebaseapp.com",
     projectId: "dsalearn-1937f",
     storageBucket: "dsalearn-1937f.firebasestorage.app",
