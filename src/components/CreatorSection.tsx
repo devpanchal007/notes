@@ -29,7 +29,7 @@ export function CreatorSection() {
             <div className="bg-white/10 dark:bg-gray-900/30 backdrop-blur-lg rounded-2xl p-6 shadow-xl border border-white/20">
               <div className="w-48 h-48 mx-auto mb-6 rounded-full overflow-hidden ring-4 ring-white/20 hover:ring-white/40 transition-all">
                 <img
-                  src="./public/assets/dev.jpg"
+                  src="./assets/dev.jpg"
                   alt="Dev panchal"
                   className="w-full h-full object-cover"
                 />
