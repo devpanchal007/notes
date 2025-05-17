@@ -17,7 +17,7 @@ export function About() {
       <div className="mt-8 sm:mt-8 lg:mt-0 sm:max-w-lg sm:mx-auto lg:hidden sm:flex justify-center p-6" data-aos="zoom-in">
         <img
           className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5"
-          src="./public/assets/dev.jpg"
+          src="./assets/dev.jpg"
           alt="Students collaborating"
         />
       </div>

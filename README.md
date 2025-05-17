@@ -2,9 +2,6 @@
 
 Welcome to NotesNeo, your go-to platform for academic resources designed to empower students with quality education, accessibility, and a supportive community.
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://notesneo.vercel.app)
-[![Version](https://img.shields.io/badge/version-2.0.0-blue)](https://notesneo.vercel.app)
-[![License](https://img.shields.io/badge/license-MIT-yellow)](https://notesneo.vercel.app)
 
 ## About NotesNeo
 NotesNeo 2.0 is a comprehensive React-based platform designed for students of MDU Rohtak to access high-quality academic resources, including notes, study materials, and community support. The website aims to make studying more accessible, efficient, and collaborative by offering a seamless experience for users to download and save notes, filter by branch, semester, and subject, and access personalized resources through their dashboard.
@@ -49,28 +46,11 @@ NotesNeo 2.0 is a comprehensive React-based platform designed for students of MD
 - **Modal System**: Login and profile setup modals
 
 ## Get Started
-1. Visit [NotesNeo](https://notesneo.vercel.app) to start exploring resources
+1. Visit notes
 2. Use the filters to find notes by branch, semester, and subject
 3. Sign in with your Google account to access the dashboard and save favorites
 4. Toggle between dark and light modes using the theme switcher
 
-## Development Setup
-```bash
-# Clone the repository
-git clone https://github.com/decodewithdeepak/NotesNeo.git
-
-# Navigate to project folder
-cd NotesNeo
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
 
 ## Contributing
 We welcome contributions! Please fork the repository and submit a pull request with your changes.
