@@ -44,7 +44,7 @@ export function About() {
             <div className="hidden lg:mt-0 lg:max-w-none lg:mx-0 lg:col-span-6 lg:flex lg:items-center" data-aos="fade-left">
               <img
                 className="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5"
-                src='./public/assets/dev.jpg'
+                src='./assets/dev.jpg'
                 alt="Students collaborating"
               />
             </div>
@@ -179,7 +179,7 @@ const teamMembers = [
     name: 'Dev panchal',
     role: 'Founder & Lead Developer',
     description: 'Full-stack developer with a passion for education technology.',
-    image: './public/assets/dev.jpg',
+    image: './assets/dev.jpg',
     social: {
       github: 'https://github.com/devpanchal007',
       linkedin: 'https://www.linkedin.com/in/devpanchal108/',
@@ -190,7 +190,7 @@ const teamMembers = [
     name: 'Dev panchal',
     role: 'Content Manager',
     description: 'Expert in creating and curating high-quality academic content.',
-    image: './public/assets/dev.jpg',
+    image: './assets/dev.jpg',
     social: {
       github: 'https://github.com/devpanchal007',
       linkedin: 'https://www.linkedin.com/in/devpanchal108/',
@@ -201,7 +201,7 @@ const teamMembers = [
     name: 'Dev panchal',
     role: 'UI/UX Designer',
     description: 'Creative designer focused on user-friendly educational interfaces.',
-    image: './public/assets/dev.jpg',
+    image: './assets/dev.jpg',
     social: {
       github: 'https://github.com/devpanchal007',
       linkedin: 'https://www.linkedin.com/in/devpanchal108/',
@@ -212,7 +212,7 @@ const teamMembers = [
     name: 'Dev panchal',
     role: 'Community Manager',
     description: 'Building and nurturing the NotesNeo student community.',
-    image: './public/assets/dev.jpg',
+    image: './assets/dev.jpg',
     social: {
       github: 'https://github.com/devpanchal007',
       linkedin: 'https://www.linkedin.com/in/devpanchal108/',
